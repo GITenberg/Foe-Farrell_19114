@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3579
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Quiller-Couch
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19114#Foe-Farrell
 gutenberg_issued: '2006-08-25'
 gutenberg_type: Text
 identifiers:
